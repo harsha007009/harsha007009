@@ -6,8 +6,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=harsha007009&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha007009&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harsha007009&icon=9&color=7)](https://visitcount.itsvg.in)
