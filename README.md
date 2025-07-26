@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
 </p>
 
-<h2 align="center">👋 Hi there, I'm Harsha</h2>
+<h2 align="center" style="font-size: 28px;">👋 Hi there, I'm Harsha</h2>
 
 <!-- 🧠 About Me + GIF -->
 <table align="center">
@@ -25,18 +25,25 @@
 </table>
 
 <!-- 📊 GitHub Stats + Tech Stack -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsha007009&theme=aura&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha007009&theme=aura&hide_border=true&layout=compact" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harsha007009&theme=aura&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,tailwind,vscode,vim,ps" />
-</p>
+<h3 align="center">📊 GitHub Stats + 💼 Tech Stack</h3>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=harsha007009&theme=aura&hide_border=true" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha007009&theme=aura&hide_border=true&layout=compact" height="180"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=harsha007009&theme=aura&hide_border=true" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp,js,react,tailwind,vscode,vim,ps" />
+    </td>
+  </tr>
+</table>
 
 <!-- 🎬 Footer GIF -->
 <p align="center">
