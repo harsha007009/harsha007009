@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="650px" />
 </p>
 
-<h1 align="center" style="font-size: 28px;">👋 Hi there, I'm Harsha</h1>
+<h1 align="center" style="font-size: 42px;">👋 Hi there, I'm Harsha</h1>
 
 <!-- 🧠 About Me + GIF -->
 <table align="center">
