@@ -30,26 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha007009&theme=aura&hide_border=true&layout=compact" width="300"/>
 </p>
 
----
-
-### 📈 Profile Visitors
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=harsha007009&icon=9&color=7" />
-  </a>
-</p>
-
----
-
-### 💬 Quote of the Moment
-
-<p align="center">
-  <em>"The only way to do great work is to love what you do." — Steve Jobs</em><br/>
-  <em>"Code never lies, comments sometimes do." — Ron Jeffries</em><br/>
-  <em>"Don't watch the clock; do what it does. Keep going." — Sam Levenson</em>
-</p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 </p>
