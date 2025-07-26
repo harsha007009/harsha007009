@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi there, I'm Harsha</h1>
 
-<!-- 🧠 Two-column info layout using table -->
+<!-- 🧠 Two-column info layout -->
 <table align="center">
   <tr>
     <td>
@@ -27,20 +27,38 @@
 
 ---
 
-### 📊 GitHub Stats
+<!-- 📊 GitHub Stats and Tech Stack in 2x2 Grid -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=harsha007009&theme=aura&hide_border=true" height="200" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha007009&theme=aura&hide_border=true&layout=compact" height="200" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=harsha007009&theme=aura&hide_border=true" height="200" />
+    </td>
+    <td align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsha007009&theme=aura&hide_border=true" height="200" />
-</p>
+<!-- 🛠️ Tech Stack Icons -->
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harsha007009&theme=aura&hide_border=true" height="200" />
-</p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha007009&theme=aura&hide_border=true&layout=compact" height="200" />
-</p>
-
+---
 
 <!-- 🎬 Footer GIF -->
 <p align="center">
