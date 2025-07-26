@@ -5,21 +5,23 @@
 
 <h1 align="center">👋 Hi there, I'm Harsha</h1>
 
-<!-- 🧠 Two-column info layout -->
+<!-- 🧠 Two-column layout -->
 <table align="center">
   <tr>
-    <td>
+    <td style="vertical-align: top; text-align: left;">
 
-### 🧠 About Me
+<p><strong>🧠 About Me</strong></p>
 
-- 🚀 Currently building small, fun projects  
-- 💻 Learning web dev (Next.js gang)  
-- 🧙‍♂️ I use Vim, btw  
-- 🧩 Leetcode for brain gains  
-- 🎨 Into Photoshop, aesthetics, and good fonts
+<ul>
+  <li>🚀 Currently building small, fun projects</li>
+  <li>💻 Learning web dev (Next.js gang)</li>
+  <li>🧙‍♂️ I use Vim, btw</li>
+  <li>🧩 Leetcode for brain gains</li>
+  <li>🎨 Into Photoshop, aesthetics, and good fonts</li>
+</ul>
 
     </td>
-    <td>
+    <td align="center">
       <img src="https://i.pinimg.com/originals/ae/49/f0/ae49f0b2eaf092695185f90a8ce26df8.gif" width="300" />
     </td>
   </tr>
@@ -42,8 +44,7 @@
       <img src="https://nirzak-streak-stats.vercel.app/?user=harsha007009&theme=aura&hide_border=true" height="200" />
     </td>
     <td align="center">
-
-<!-- 🛠️ Tech Stack Icons -->
+      <p><strong>🛠️ Tech Stack</strong></p>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -53,7 +54,6 @@
         <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
       </p>
-
     </td>
   </tr>
 </table>
