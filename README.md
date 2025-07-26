@@ -41,7 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha007009&theme=aura&hide_border=true&layout=compact" height="200" />
 </p>
 
----
 
 <!-- 🎬 Footer GIF -->
 <p align="center">
