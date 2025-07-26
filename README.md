@@ -24,8 +24,8 @@
   </tr>
 </table>
 
-<!-- 📊 GitHub Stats + Tech Stack -->
-<h3 align="center">📊 GitHub Stats + 💼 Tech Stack</h3>
+<!-- 📊 GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
 <table align="center">
   <tr>
     <td align="center">
@@ -40,10 +40,16 @@
       <img src="https://nirzak-streak-stats.vercel.app/?user=harsha007009&theme=aura&hide_border=true" height="180"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp,js,react,tailwind,vscode,vim,ps" />
+      <!-- Empty cell for symmetry -->
     </td>
   </tr>
 </table>
+
+<!-- 💼 Tech Stack -->
+<h3 align="center">💼 Tech Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,tailwind,vscode,vim,ps" />
+</p>
 
 <!-- 🎬 Footer GIF -->
 <p align="center">
