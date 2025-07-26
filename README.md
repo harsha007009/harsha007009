@@ -1,26 +1,59 @@
-<div align="center">
+<h2 align="center">👋 Hi there! I'm Harsha</h2>
 
-<h2>👋 <span style="display:inline-block; animation: wave 2s infinite;">Hi there!</span> I'm Harsha</h2>
+<p align="center">
+  I'm currently doing LeetCode and learning web development using Next.js
+</p>
 
-<p>I'm currently doing LeetCode and learning web development using Next.js</p>
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harsha007009&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harsha007009&theme=aura&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha007009&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=harsha007009&icon=9&color=7)](https://visitcount.itsvg.in)
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsha007009&theme=aura&hide_border=true" width="400"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=harsha007009&theme=aura&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha007009&theme=aura&hide_border=true&layout=compact" width="300"/>
+</p>
+
+---
+
+### 📈 Profile Visitors
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=harsha007009&icon=9&color=7" />
+  </a>
+</p>
+
+---
+
+### 💬 Quote of the Moment
+
+<p align="center">
+  <em>"The only way to do great work is to love what you do." — Steve Jobs</em><br/>
+  <em>"Code never lies, comments sometimes do." — Ron Jeffries</em><br/>
+  <em>"Don't watch the clock; do what it does. Keep going." — Sam Levenson</em>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+</p>
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-</div>
