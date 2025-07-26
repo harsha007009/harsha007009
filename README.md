@@ -1,16 +1,16 @@
 <!-- 🖼️ Big Header GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="700" />
 </p>
 
-<h1 align="center">👋 Hi there, I'm Harsha</h1>
+<h1 align="center" style="font-size: 36px;">👋 Hi there, I'm Harsha</h1>
 
-<!-- 🧠 Two-column layout -->
+<!-- 🧠 About Me Section with GIF -->
 <table align="center">
   <tr>
-    <td style="vertical-align: top; text-align: left;">
+    <td>
 
-<p><strong>🧠 About Me</strong></p>
+<h3>🧠 About Me</h3>
 
 <ul>
   <li>🚀 Currently building small, fun projects</li>
@@ -22,14 +22,15 @@
 
     </td>
     <td align="center">
-      <img src="https://i.pinimg.com/originals/ae/49/f0/ae49f0b2eaf092695185f90a8ce26df8.gif" width="300" />
+      <!-- Keeping your original GIF link -->
+      <img src="https://i.pinimg.com/originals/ae/49/f0/ae49f0b2eaf092695185f90a8ce26df8.gif" width="320" />
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- 📊 GitHub Stats and Tech Stack in 2x2 Grid -->
+<!-- 📊 GitHub Stats + Tech Stack in 2x2 Grid -->
 <table align="center">
   <tr>
     <td align="center">
@@ -44,7 +45,7 @@
       <img src="https://nirzak-streak-stats.vercel.app/?user=harsha007009&theme=aura&hide_border=true" height="200" />
     </td>
     <td align="center">
-      <p><strong>🛠️ Tech Stack</strong></p>
+      <h3>🛠️ Tech Stack</h3>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -62,5 +63,5 @@
 
 <!-- 🎬 Footer GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/53/be/fb/53befb59578b676869b012551798cf8d.gif" width="450" />
+  <img src="https://i.pinimg.com/originals/53/be/fb/53befb59578b676869b012551798cf8d.gif" width="500" />
 </p>
