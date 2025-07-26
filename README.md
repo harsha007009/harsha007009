@@ -1,47 +1,53 @@
-<h2 align="center">👋 Hi there! I'm Harsha</h2>
-
+<!-- Header GIF -->
 <p align="center">
-  I'm currently doing LeetCode and learning web development using Next.js
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-</p>
+<h2 align="center">👋 Hi there, I'm Harsha</h2>
+<p align="center">I code like I mean it (and break stuff with equal intensity).</p>
 
----
+<br/>
 
-### 💻 Tech Stack
+<!-- Two Column Layout -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      
+### 🧠 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
-</p>
+- 🚀 Currently building small, fun projects  
+- 💻 Learning web dev (Next.js gang)  
+- 🧙‍♂️ I use Vim, btw  
+- 🧩 Leetcode for brain gains  
+- 🎨 Into Photoshop, aesthetics, and good fonts  
+- 🛠️ Dark theme > Light theme
+
+   </td>
+   <td width="50%" valign="top" align="center">
+     <img src="https://i.pinimg.com/originals/ae/49/f0/ae49f0b2eaf092695185f90a8ce26df8.gif" width="300"/>
+   </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsha007009&theme=aura&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsha007009&theme=aura&hide_border=true&include_all_commits=false&count_private=false" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harsha007009&theme=aura&hide_border=true" width="450" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=harsha007009&theme=aura&hide_border=true" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha007009&theme=aura&hide_border=true&layout=compact" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha007009&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="200"/>
 </p>
 
 ---
 
+<!-- Footer GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
+  <img src="https://i.pinimg.com/originals/53/be/fb/53befb59578b676869b012551798cf8d.gif" width="400"/>
 </p>
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
