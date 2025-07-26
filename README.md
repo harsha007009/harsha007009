@@ -1,9 +1,9 @@
 <!-- 🖼️ Big Header GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="700" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600" />
 </p>
 
-<h2 align="center">👋 Hi there, I'm Harsha</h2>
+<h1 align="center">👋 Hi there, I'm Harsha</h1>
 
 <!-- 🧠 Two-column info layout using table -->
 <table align="center">
