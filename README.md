@@ -3,15 +3,13 @@
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
 </p>
 
-<h1 align="center" style="font-size: 32px;">👋 Hi there, I'm Harsha</h1>
+<h2 align="center">👋 Hi there, I'm Harsha</h2>
 
-<!-- 🧠 About Me with GIF -->
+<!-- 🧠 About Me + GIF -->
 <table align="center">
   <tr>
-    <td>
-
+    <td width="55%">
       <h3>🧠 About Me</h3>
-
       <ul>
         <li>🚀 Currently building small, fun projects</li>
         <li>💻 Learning web dev (Next.js gang)</li>
@@ -19,37 +17,26 @@
         <li>🧩 Leetcode for brain gains</li>
         <li>🎨 Into Photoshop, aesthetics, and good fonts</li>
       </ul>
-
     </td>
-    <td align="center">
-      <img src="https://i.pinimg.com/originals/ae/49/f0/ae49f0b2eaf092695185f90a8ce26df8.gif" width="300" />
+    <td align="center" width="45%">
+      <img src="https://i.pinimg.com/originals/ae/49/f0/ae49f0b2eaf092695185f90a8ce26df8.gif" width="280" />
     </td>
   </tr>
 </table>
-
----
 
 <!-- 📊 GitHub Stats + Tech Stack -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=harsha007009&theme=aura&hide_border=true" height="200" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha007009&theme=aura&hide_border=true&layout=compact" height="200" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp,js,react,tailwind,vscode,vim,ps" />
-    </td>
-    <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=harsha007009&theme=aura&hide_border=true" height="200" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsha007009&theme=aura&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha007009&theme=aura&hide_border=true&layout=compact" height="180"/>
+</p>
 
----
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=harsha007009&theme=aura&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,tailwind,vscode,vim,ps" />
+</p>
 
 <!-- 🎬 Footer GIF -->
 <p align="center">
