@@ -12,7 +12,7 @@
       <h3>🧠 About Me</h3>
       <ul>
         <li>🚀 Currently building small, fun projects</li>
-        <li>💻 Learning web dev (Next.js gang)</li>
+        <li>💻 Learning web dev</li>
         <li>🧙‍♂️ I use Vim, btw</li>
         <li>🧩 Leetcode for brain gains</li>
         <li>🎨 Into Photoshop, aesthetics, and good fonts</li>
