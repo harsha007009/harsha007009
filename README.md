@@ -1,9 +1,9 @@
 <!-- 🖼️ Big Header GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="500px" />
 </p>
 
-<h2 align="center" style="font-size: 28px;">👋 Hi there, I'm Harsha</h2>
+<h1 align="center" style="font-size: 28px;">👋 Hi there, I'm Harsha</h1>
 
 <!-- 🧠 About Me + GIF -->
 <table align="center">
