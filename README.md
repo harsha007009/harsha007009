@@ -1,7 +1,3 @@
-<!-- 🖼️ Big Header GIF -->
-<p align="center">
-  <img src="https://pin.it/7r9um3jLP" width="800px" />
-</p>
 
 <h1 align="center" style="font-size: 42px;">👋 Hi there, I'm Harsha</h1>
 
