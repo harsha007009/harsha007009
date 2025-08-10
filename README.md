@@ -1,6 +1,6 @@
 <!-- 🖼️ Big Header GIF -->
 <p align="center">
-  <img src="https://ibb.co/S4YvSG99" width="800px" />
+  <img src="https://postimg.cc/23xV5z74" width="800px" />
 </p>
 
 <h1 align="center" style="font-size: 42px;">👋 Hi there, I'm Harsha</h1>
