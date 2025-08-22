@@ -10,8 +10,7 @@
         <li>🚀 Currently building small, fun projects</li>
         <li>💻 Learning web dev</li>
         <li>🧙‍♂️ I use Vim, btw</li>
-        <li>🧩 Leetcode for brain gains</li>
-        <li>🎨 Into aesthetics, and good fonts</li>
+        <li>🧩 Leetcode 1600+ rating</li>
       </ul>
     </td>
     <td align="center" width="45%">
