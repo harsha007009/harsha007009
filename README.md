@@ -4,11 +4,11 @@
 <!-- 🧠 About Me + GIF -->
 <table align="center">
   <tr>
-    <td width="55%">
+    <td width="50%">
       <h3>🧠 About Me</h3>
       <ul>
         <li>🚀 Currently building small, fun projects</li>
-        <li>💻 Learning web dev</li>
+        <li>💻 Learning CS</li>
         <li>🧙‍♂️ I use Vim, btw</li>
         <li>🧩 Leetcode 1600+ rating</li>
       </ul>
